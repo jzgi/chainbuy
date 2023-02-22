@@ -4,7 +4,7 @@ using System.Web;
 using ChainFx.Nodal;
 using ChainFx.Web;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     /// <summary>
     /// To establish principal identity. 

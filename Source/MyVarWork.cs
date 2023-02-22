@@ -1,6 +1,6 @@
 using ChainFx.Web;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     [MyAuthorize]
     [Ui("我的个人账号")]

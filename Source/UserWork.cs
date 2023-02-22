@@ -5,7 +5,7 @@ using static ChainFx.Web.Modal;
 using static ChainFx.Nodal.Nodality;
 using static ChainFx.Web.ToolAttribute;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public abstract class UserWork<V> : WebWork where V : UserVarWork, new()
     {

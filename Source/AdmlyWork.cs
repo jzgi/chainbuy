@@ -3,7 +3,7 @@ using ChainFx.Nodal;
 using ChainFx.Web;
 using static ChainFx.Nodal.Nodality;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     [UserAuthenticate, AdmlyAuthorize(1)]
     [Ui("平台管理")]

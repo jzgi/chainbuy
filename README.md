@@ -1,4 +1,4 @@
 # Introduction  
 
-ChainSMart (品链供销) is a decentralized agricultural supply & marketing platform system.
+ChainBuy (品链商超) is a direct-buy supermarket system.
 

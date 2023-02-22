@@ -6,7 +6,7 @@ using ChainFx.Nodal;
 using ChainFx.Web;
 using static ChainFx.Entity;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public abstract class MainService : WebService
     {

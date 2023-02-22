@@ -1,7 +1,7 @@
 ﻿using System;
 using ChainFx.Web;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     /// <summary>
     /// To implement principal authorization of access to the target resources.

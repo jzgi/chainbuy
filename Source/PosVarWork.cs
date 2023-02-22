@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using ChainFx.Web;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public abstract class PosVarWork : WebWork
     {

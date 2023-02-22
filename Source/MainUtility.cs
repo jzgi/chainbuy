@@ -3,7 +3,7 @@ using ChainFx;
 using ChainFx.Web;
 using static ChainFx.CryptoUtility;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public static class MainUtility
     {

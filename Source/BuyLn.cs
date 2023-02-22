@@ -1,6 +1,6 @@
 ﻿using ChainFx;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     /// <summary>
     /// A detail line of buy.

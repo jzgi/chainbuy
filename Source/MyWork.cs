@@ -4,7 +4,7 @@ using ChainFx.Nodal;
 using ChainFx.Web;
 using static ChainFx.Nodal.Nodality;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     [UserAuthenticate]
     public class MyWork : WebWork

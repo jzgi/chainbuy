@@ -1,4 +1,4 @@
-﻿namespace ChainSmart
+﻿namespace ChainBuy
 {
     public interface IStockable
     {

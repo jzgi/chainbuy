@@ -1,6 +1,6 @@
 ﻿using ChainFx;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public class User : Entity, IKeyable<int>
     {

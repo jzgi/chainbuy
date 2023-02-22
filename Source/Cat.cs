@@ -1,6 +1,6 @@
 ﻿﻿using ChainFx;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     /// <summary>
     /// The data modal for an standard category.

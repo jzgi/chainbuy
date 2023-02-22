@@ -1,11 +1,11 @@
 [Unit]
-Description=Supply & Marketing System
+Description=Shared Store Platform
 
 [Service]
 EnvironmentFile=/etc/environment
 Type=forking
 WorkingDirectory=/home/ubuntu
-ExecStart=sudo -b /usr/bin/dotnet /home/ubuntu/lib/ChainSMart.dll deploy
+ExecStart=sudo -b /usr/bin/dotnet /home/ubuntu/lib/ChainBuy.dll deploy
 Restart=always
 
 [Install]

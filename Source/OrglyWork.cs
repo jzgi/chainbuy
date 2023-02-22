@@ -2,7 +2,7 @@ using ChainFx;
 using ChainFx.Web;
 using static ChainFx.Nodal.Nodality;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public abstract class OrglyWork : WebWork
     {

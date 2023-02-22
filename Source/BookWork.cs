@@ -3,9 +3,9 @@ using ChainFx.Web;
 using static ChainFx.Web.Modal;
 using static ChainFx.Nodal.Nodality;
 using static ChainFx.Web.ToolAttribute;
-using static ChainSmart.Notice;
+using static ChainBuy.Notice;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public abstract class BookWork<V> : WebWork where V : BookVarWork, new()
     {

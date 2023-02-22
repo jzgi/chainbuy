@@ -1,7 +1,7 @@
 ﻿using ChainFx.Nodal;
 using ChainFx.Web;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public class FedService : NodeService
     {

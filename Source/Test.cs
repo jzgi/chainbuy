@@ -1,6 +1,6 @@
 ﻿using ChainFx;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     /// <summary>
     /// An event logged targeted to certain org

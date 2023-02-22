@@ -4,7 +4,7 @@ using System.Text;
 using System.Threading;
 using ChainFx.Nodal;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public class NoticeBot
     {

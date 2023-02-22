@@ -6,7 +6,7 @@ using static ChainFx.Entity;
 using static ChainFx.Web.Modal;
 using static ChainFx.Nodal.Nodality;
 
-namespace ChainSmart
+namespace ChainBuy
 {
     public abstract class OrgVarWork : WebWork
     {
